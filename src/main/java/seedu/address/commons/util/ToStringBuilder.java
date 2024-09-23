@@ -7,7 +7,7 @@ public class ToStringBuilder {
     private static final String OBJECT_PREFIX = "{";
     private static final String OBJECT_SUFFIX = "}";
     private static final String FIELD_SEPARATOR = ", ";
-    private static final String FIELD_NAME_VALUE_SEPARATOR = "=";
+    private static final String FIELD_NAME_VALUE_SEPARATOR = ":";
 
     private final StringBuilder stringBuilder = new StringBuilder();
     private boolean hasField;

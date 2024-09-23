@@ -11,8 +11,8 @@ public class ConfigTest {
     @Test
     public void toStringMethod() {
         Config config = new Config();
-        String expected = Config.class.getCanonicalName() + "{logLevel=" + config.getLogLevel()
-                + ", userPrefsFilePath=" + config.getUserPrefsFilePath() + "}";
+        String expected = Config.class.getCanonicalName() + "{logLevel:" + config.getLogLevel()
+                + ", userPrefsFilePath:" + config.getUserPrefsFilePath() + "}";
         assertEquals(expected, config.toString());
     }
 
