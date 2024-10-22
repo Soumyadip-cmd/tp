@@ -107,7 +107,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "ugteach-user-guide": "UGTeach User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
@@ -116,6 +116,7 @@
         "editing-a-student-edit": "Editing a student : edit",
         "showing-income-data-income": "Showing income data: income",
         "finding-students-information-find": "Finding students' information: find",
+        "settle-payments-from-students-settle": "Settle payments from students: settle",
         "deleting-a-student-delete": "Deleting a student : delete",
         "receiving-payment-from-a-student-pay": "Receiving payment from a student : pay",
         "clearing-all-entries-clear": "Clearing all entries : clear",
