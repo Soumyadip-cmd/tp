@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "ugteach-developer-guide": "UGTeach Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -109,6 +109,7 @@
       "headings": {
         "ugteach-user-guide": "UGTeach User Guide",
         "quick-start": "Quick start",
+        "command-summary": "Command summary",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-student-add": "Adding a student: add",
@@ -127,8 +128,7 @@
         "editing-the-data-file": "Editing the data file",
         "archiving-data-files-coming-in-v2-0": "Archiving data files [coming in v2.0]",
         "faq": "FAQ",
-        "known-issues": "Known issues",
-        "command-summary": "Command summary"
+        "known-issues": "Known issues"
       },
       "headingKeywords": {}
     },
