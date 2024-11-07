@@ -149,7 +149,7 @@ with(this){return _c('p',[_c('strong',[_v("Example:")])])}
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("settle 1 amount/500.00")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Output:")]),_v(" "),_c('a',{attrs:{"href":"/tp/images%2FsettleResult.jpg","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images%2FsettleResult.jpg","alt":"settleResult.jpg"}})])])}
+with(this){return _c('p',[_c('strong',[_v("Output:")]),_v(" "),_c('a',{attrs:{"href":"/tp/images/settleResult.png","target":"_self"}},[_c('img',{staticClass:"img-fluid",attrs:{"src":"/tp/images/settleResult.png","alt":"settleResult.png"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"showing-income-data-income"}},[_v("Showing income data: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("income")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#showing-income-data-income","onclick":"event.stopPropagation()"}})])}
@@ -218,6 +218,6 @@ with(this){return _c('h2',{attrs:{"id":"known-issues"}},[_v("Known issues"),_c('
 with(this){return _c('ol',[_c('li',[_c('strong',[_v("When using multiple screens")]),_v(", if you move the application to a secondary screen, and later switch to using only the primary screen, the GUI will open off-screen. The remedy is to delete the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("preferences.json")]),_v(" file created by the application before running the application again.")]),_v(" "),_c('li',[_c('strong',[_v("If you minimize the Help Window")]),_v(" and then run the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")]),_v(" command (or use the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Help")]),_v(" menu, or the keyboard shortcut "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("F1")]),_v(") again, the original Help Window will remain minimized, and no new Help Window will appear. The remedy is to manually restore the minimized Help Window.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 0:17:58 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Thu, 7 Nov 2024, 18:13:05 GMT+8]")])])])}
 }];
   
