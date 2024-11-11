@@ -70,7 +70,8 @@
         "using-pay-command": "Using pay command",
         "using-owe-command": "Using owe command",
         "using-settle-command": "Using settle command",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "appendix-planned-enhancement": "Appendix: Planned Enhancement"
       },
       "headingKeywords": {}
     },
@@ -133,6 +134,7 @@
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
         "editing-the-data-file": "Editing the data file",
+        "glossary": "Glossary",
         "faq": "FAQ",
         "known-issues": "Known issues"
       },
