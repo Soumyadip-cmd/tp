@@ -19,6 +19,7 @@
 * The implementation description of the `owe` command in this documentation was inspired by the documentation of the past project [NetworkBook](https://ay2324s1-cs2103t-t08-2.github.io/tp/DeveloperGuide.html#add-details).
 * The non-functional requirement related to the standard screen resolution was inspired by the documentation of the current year project [PlanPerfect](https://ay2425s1-cs2103t-t12-2.github.io/tp/DeveloperGuide.html).
 * The Quick start guide in the User Guide was adapted from the documentation of the current year project [VBook](https://ay2425s1-cs2103t-f14b-4.github.io/tp/UserGuide.html).
+* The definitions for [JSON](https://www.json.org/json-en.html) and [JAR](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html) were taken from their respective websites.
 * ChatGPT used to generate some JavaDocs. Github Copilot used for code auto-completion in some parts of the code. Both tools used by [TY1Fan](https://github.com/TY1Fan).
 
 --------------------------------------------------------------------------------------------------------------------
